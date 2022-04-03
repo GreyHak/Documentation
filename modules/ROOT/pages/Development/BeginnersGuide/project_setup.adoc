@@ -217,7 +217,7 @@ It looks like an alpaca peeking out of a cardboard box.
 Click on the 3 dots near `Satisfactory Game Path`
 and select your root Satisfactory game installation folder.
 It will be something like
-`C:\Program Files\EpicGames\SatisfactoryEarlyAccess\` 
+`C:\Program Files\EpicGames\SatisfactoryEarlyAccess\` or `C:\Program Files (x86)\Steam\steamapps\common\Satisfactory`
 Choose an item from `Launch Game After Packing`
 if you'd like the game to be launched after you pack your mod files,
 or leave it on 'Do not launch' if desired.
